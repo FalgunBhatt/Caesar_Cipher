@@ -9,6 +9,6 @@ An Integer between 0-25 denoting the required shift.
 
 Procedure: 
 
-Traverse the given text one character at a time .
+Traverse the given text one character at a time.
 For each character, transform the given character as per the rule, depending on whether we’re encrypting or decrypting the text.
 Return the new string generated.
